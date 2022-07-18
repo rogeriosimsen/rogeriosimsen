@@ -5,7 +5,7 @@
  <h5>🛠️ TECH STACK: </h5>
  
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
- ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
+ ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
  ![CSS](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP)
  ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)</br>
  
