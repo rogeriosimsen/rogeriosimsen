@@ -2,7 +2,7 @@
 
 <h3>I'm a 4th semester student of the information security course and I also have a lot of passion for software development.</h3></br>
  
- 🛠️ MY CURRENTLY STACK: </br>
+ 🛠️ MY TECH STACK: </br>
  
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
