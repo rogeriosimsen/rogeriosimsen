@@ -1,6 +1,6 @@
 <h2> Hello dear 👋, I’m Rogério.</h2>
 
-<h4>I'm a 4th semester student of the Information Security course and I also have a lot of passion for Software Development.</h4>
+<h4>I'm on 4th semester student of the Information Security course and I also have a lot of passion for Software Development.</h4>
  
  <h5>🛠️ TECH STACK: </h5>
  
