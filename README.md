@@ -1,22 +1,32 @@
 <h2> Hello, 👋 I’m Rogério.</h2>
 
-<h3>I'm a 4th semester student of the information security course and I also have a lot of passion for software development.</h3>
-
-<h5>My skills are:</h5>
- ➞ HTML </br>
- ➞ CSS </br>
- ➞ Bootstrap </br>
- ➞ JavaScript </br>
- ➞ Java </br>
- ➞ Spring Framework </br>
- ➞ PostgreSQL </br>
- ➞ API's Rest and RestFull </br>
- ➞ Microservices </br>
+<h3>I'm a 4th semester student of the information security course and I also have a lot of passion for software development.</h3></br>
+ 
+ 🛠️ My stack: </br>
+ 
+ ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
+ ![CSS](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=BOOTSTRAP)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)</br>
+ 
+ ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+ ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-05122A?style=flat&logo=spring)
+ ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven)</br>
+ 
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)</br>
+ 
+ ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)
+ ![VS Code](https://img.shields.io/badge/-VsCode-05122A?style=flat&logo=visual-studio-code)
+ ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)</br>
+ 
+ ![API's Rest and RestFull](https://img.shields.io/badge/-API's%20Rest%20and%20RestFull-05122A?style=flat&logo=java-oracle)
+ ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=java-oracle)
+ 
  
  <h5>On my repositories, you can check out several projects that I've been developing throughout my learning with software development, such as:</h5>
  🖱️ <a href="https://weare3d.netlify.app/">WE ARE 3D</a></br>
  🖱️ <a href="https://cpfverify.netlify.app/">CPFVerify</a>
-  <h5>I really like working with REST architecture and building API's.</h5>
+  <h5>I really like working with REST architecture and building API's and Microservices.</h5>
   
   
  <h4>PING ME:</h4>
