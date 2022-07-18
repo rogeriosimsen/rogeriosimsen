@@ -1,8 +1,8 @@
-<h2> Hello, 👋 I’m Rogério.</h2>
+<h2> Hello dear 👋, I’m Rogério.</h2>
 
 <h3>I'm a 4th semester student of the information security course and I also have a lot of passion for software development.</h3></br>
  
- 🛠️ My stack: </br>
+ 🛠️ MY CURRENTLY STACK: </br>
  
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
@@ -23,7 +23,7 @@
  ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=java-oracle)
  
  
- <h5>On my repositories, you can check out several projects that I've been developing throughout my learning with software development, such as:</h5>
+ <h5>In my repositories, you can check out several projects that I've been developing throughout my learning with software development, such as:</h5>
  🖱️ <a href="https://weare3d.netlify.app/">WE ARE 3D</a></br>
  🖱️ <a href="https://cpfverify.netlify.app/">CPFVerify</a>
   <h5>I really like working with REST architecture and building API's and Microservices.</h5>
