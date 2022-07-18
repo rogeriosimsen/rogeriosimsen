@@ -1,8 +1,8 @@
 <h2> Hello dear 👋, I’m Rogério.</h2>
 
-<h3>I'm a 4th semester student of the information security course and I also have a lot of passion for software development.</h3></br>
+<h4>I'm a 4th semester student of the Information Security course and I also have a lot of passion for Software Development.</h4>
  
- 🛠️ MY TECH STACK: </br>
+ <h5>🛠️ TECH STACK: </h5>
  
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
