@@ -25,6 +25,7 @@
  
  <h5>In my repositories, you can check out several projects that I've been developing throughout my learning with software development, such as:</h5>
  🖱️ <a href="https://weare3d.netlify.app/">WE ARE 3D</a></br>
+ 🖱️ <a href="https://meus-lembretes.netlify.app/">Meus Lembretes</a>
  🖱️ <a href="https://cpfverify.netlify.app/">CPFVerify</a>
   <h5>I really like working with REST architecture and building API's and Microservices.</h5>
   
